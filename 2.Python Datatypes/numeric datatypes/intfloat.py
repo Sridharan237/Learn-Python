@@ -6,9 +6,6 @@ print(a)
 print(type(a))
 print(a.__sizeof__())
 
-print(a = 1)
-
-
 # float - datatype
 x = 12.25
 print(x)
