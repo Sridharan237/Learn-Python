@@ -6,3 +6,4 @@
 
 1. Introduction to python
 2. Python Datatypes
+3. Operators and Expressions
