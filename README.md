@@ -8,3 +8,4 @@
 2. Python Datatypes
 3. Operators and Expressions
 4. Conditional Statements
+5. Loops
