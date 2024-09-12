@@ -9,7 +9,9 @@ for x in range(2, int(math.sqrt(n))+1):
     if n % x == 0:
         count += 1
 
-if count > 2:
+if n == 1:
+    print('Prime Number')
+elif count > 2:
     print('Not Prime Number')
 else:
     print('Prime Number')
