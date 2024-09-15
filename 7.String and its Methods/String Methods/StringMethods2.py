@@ -1,7 +1,8 @@
-# python program to implement the string functions : ljust, rjust, center, lstrip, rstrip, strip
+# python program to implement the string functions - for text alignment,  : ljust, rjust, center, lstrip, rstrip, strip
 
 s = 'python'
 
+# Methods for Text Alignment - ljust, rjust, center 
 print(s.ljust(10))  # Output : python
 print(s.ljust(10)) # Output : 'python    '
 print(s.rjust(10)) # Output : '    python'
@@ -13,6 +14,7 @@ print(s.ljust(len(s)+1))   # Output : 'python '
 
 s1 = '   ... ... +++ aaa python'
 
+# Methods for Removing Characters - lstrip, rstrip, strip
 print(s1.lstrip()) # Output : '... ... +++ aaa python'
 print(s1)  # Output : '   ... ... +++ aaa python'
 print(s1.lstrip('.'))  # Output : '   ... ... +++ aaa python'

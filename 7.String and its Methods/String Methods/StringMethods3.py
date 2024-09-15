@@ -1,4 +1,4 @@
-# python program to implement the string function : capitalize, title, lower, upper, swapcase, casefold
+# python program to implement the string function - for changing cases : capitalize, title, lower, upper, swapcase, casefold 
 
 s = 'hello dear'
 print(s.capitalize())  # Output : 'Hello dear'
