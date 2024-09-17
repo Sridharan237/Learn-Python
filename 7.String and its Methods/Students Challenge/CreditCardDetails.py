@@ -2,4 +2,8 @@
 
 cardNo = input('Enter the 16 digit card no. : ')
 
-print(('*' * 4 + ' ') * 3 + cardNo[15::])
+stars = ('*' * 4 + ' ') * 3
+
+displayNo = stars + cardNo[15::]
+
+print(displayNo)
