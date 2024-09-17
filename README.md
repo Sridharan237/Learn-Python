@@ -10,3 +10,4 @@
 4. Conditional Statements
 5. Loops
 6. String and its Methods
+7. Formatted Printing

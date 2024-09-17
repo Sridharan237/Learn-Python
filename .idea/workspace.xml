@@ -25,45 +25,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AdminAccess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CircleArea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CuboidTotalSurfaceArea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DayName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Difference.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DigitName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DiscountedAmout.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Displacement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KmToMiles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LeapYearOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MaleOrFemale.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MarksWithinRange.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MonthName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NestedIfElif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OddEven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PassFail3Subjects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PosNegativeZero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QuadraticEquationSolve.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RectangleArea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TrapeziumArea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TriangleArea.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VoteEligibility.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VowelConsonant.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WorkEligibility.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Learn-Github-Repositories/Learn Python Programming - Beginner to Master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.APSeries.executor": "Run",
+    "Python.AdminAccess.executor": "Run",
+    "Python.Anagram.executor": "Run",
+    "Python.CircleArea.executor": "Run",
+    "Python.ConfirmPassword.executor": "Run",
+    "Python.CreditCardDetails.executor": "Run",
+    "Python.CuboidTotalSurfaceArea.executor": "Run",
+    "Python.DayMonthYear.executor": "Run",
+    "Python.DayName.executor": "Run",
+    "Python.DecimalToBinary.executor": "Run",
+    "Python.Difference.executor": "Run",
+    "Python.DigitName.executor": "Run",
+    "Python.DiscountedAmout.executor": "Run",
+    "Python.Displacement.executor": "Run",
+    "Python.DisplayData.executor": "Run",
+    "Python.ElifAndMatchCase.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Factors.executor": "Run",
+    "Python.FibonacciSeries.executor": "Run",
+    "Python.ForLoopDemo.executor": "Run",
+    "Python.InfiniteLoopBreakContinuePass.executor": "Run",
+    "Python.KmToMiles.executor": "Run",
+    "Python.LeapYearOrNot.executor": "Run",
+    "Python.MaleOrFemale.executor": "Run",
+    "Python.MarksWithinRange.executor": "Run",
+    "Python.MaxNumber.executor": "Run",
+    "Python.MonthName.executor": "Run",
+    "Python.MultiplicationTable.executor": "Run",
+    "Python.NestedIfElif.executor": "Run",
+    "Python.NumberGuess.executor": "Run",
+    "Python.NumberOfDigits.executor": "Run",
+    "Python.OddEven.executor": "Run",
+    "Python.PalindromeNumber.executor": "Run",
+    "Python.PalindromeOrNot.executor": "Run",
+    "Python.PassFail3Subjects.executor": "Run",
+    "Python.Pattern1.executor": "Run",
+    "Python.Pattern2.executor": "Run",
+    "Python.Pattern3.executor": "Run",
+    "Python.PosNegativeZero.executor": "Run",
+    "Python.PrimeNumberOrNot.executor": "Run",
+    "Python.PrimeNumbersFrom1to100.executor": "Run",
+    "Python.PrintDigits.executor": "Run",
+    "Python.PrintHello10Times.executor": "Run",
+    "Python.QuadraticEquationSolve.executor": "Run",
+    "Python.RearrangingCases.executor": "Run",
+    "Python.RectangleArea.executor": "Run",
+    "Python.RemovePunctuations.executor": "Run",
+    "Python.ReversingNumber.executor": "Run",
+    "Python.SortString.executor": "Run",
+    "Python.StringToPalindrome.executor": "Run",
+    "Python.SumNumbers.executor": "Run",
+    "Python.SumOf+ve-veNumbers.executor": "Run",
+    "Python.SumOfDigits.executor": "Run",
+    "Python.TrapeziumArea.executor": "Run",
+    "Python.TriangleArea.executor": "Run",
+    "Python.UseridDomainName.executor": "Run",
+    "Python.VoteEligibility.executor": "Run",
+    "Python.VowelConsonant.executor": "Run",
+    "Python.WhileElse.executor": "Run",
+    "Python.WorkEligibility.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Learn-Github-Repositories/Learn Python Programming - Beginner to Master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learn-Github-Repositories\Learn Python Programming - Beginner to Master\6.Loops\Student Challenge\WhileLoop" />
       <recent name="D:\Learn-Github-Repositories\Learn Python Beginner to Master\3.Operators and Expressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LeapYearOrNot">
-    <configuration name="DayName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RemovePunctuations">
+    <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge/DayName.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge/Anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DigitName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DayMonthYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge/DigitName.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge/DayMonthYear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DiscountedAmount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RearrangingCases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Learn-Github-Repositories\Learn Python Programming - Beginner to Master\4.Conditional Statements\Student Challenge\DiscountedAmount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge/RearrangingCases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeapYearOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RemovePunctuations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge/LeapYearOrNot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge/RemovePunctuations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MonthName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringToPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Conditional Statements/Student Challenge/MonthName.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.String and its Methods/Students Challenge/StringToPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LeapYearOrNot" />
-        <item itemvalue="Python.DigitName" />
-        <item itemvalue="Python.MonthName" />
-        <item itemvalue="Python.DayName" />
-        <item itemvalue="Python.DiscountedAmount" />
+        <item itemvalue="Python.RemovePunctuations" />
+        <item itemvalue="Python.RearrangingCases" />
+        <item itemvalue="Python.Anagram" />
+        <item itemvalue="Python.DayMonthYear" />
+        <item itemvalue="Python.StringToPalindrome" />
       </list>
     </recent_temporary>
   </component>
