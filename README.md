@@ -11,3 +11,4 @@
 5. Loops
 6. String and its Methods
 7. Formatted Printing
+8. Regular Expressions
