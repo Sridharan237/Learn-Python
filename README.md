@@ -12,3 +12,4 @@
 6. String and its Methods
 7. Formatted Printing
 8. Regular Expressions
+9. List
