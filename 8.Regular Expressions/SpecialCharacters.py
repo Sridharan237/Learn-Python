@@ -147,6 +147,19 @@ print(match('orld$', 'orld').group())
 #   File "<stdin>", line 1, in <module>
 # AttributeError: 'NoneType' object has no attribute 'group'
 
+print(match('[a-z]+orld$', 'world').group())   # Output : 'world'
+
+# match('[a-z]+ [a-z]+orld$', 'world').group()
+
+# Traceback (most recent call last):
+#   File "<stdin>", line 1, in <module>
+# AttributeError: 'NoneType' object has no attribute 'group'
+
+print(match('[a-z]+\s[a-z]+orld$', 'hello world').group())  # Output : 'hello world'
+# <stdin>:1: SyntaxWarning: invalid escape sequence '\s'
+
+print(match('[a-z]+ [a-z]+orld$', 'hello world').group())   # Output : 'hello world'
+
 x = r'^Hell'
 c = compile(x)
 r = c.search('Hello World')
