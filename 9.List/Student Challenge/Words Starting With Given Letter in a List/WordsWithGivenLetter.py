@@ -9,7 +9,7 @@ print('Words Starting With Given Letter are :')
 flag = 0
 
 for item in food:
-    if letter == item[0]:
+    if item.startswith(letter):
         print(item)
         flag = 1
 else:
