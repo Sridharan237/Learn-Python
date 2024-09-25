@@ -77,6 +77,8 @@ print(type(t6))
 
 
 
+
+
 t1 = 10
 print(t1)
 # Output : 10
