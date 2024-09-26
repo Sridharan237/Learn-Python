@@ -146,7 +146,7 @@ print((2, 1) in t1)
 #Output : False
 
 print(2, 1 in t1)
-#Output : (2, True)
+#Output : 2 True
 
 print((1, 2) in t1)
 #Output : False
