@@ -160,3 +160,20 @@ print((1, 2) in t4)
 
 print((2, 1) in t4)
 #Output : False
+
+
+
+
+
+
+# Important
+
+T = ('python', [10, 20, 30], (40, 50))
+
+print(T)
+# Output : ('python', [10, 20, 30], (40, 50))
+
+print(T[1:2][1])
+# Traceback (most recent call last):
+#   File "<stdin>", line 1, in <module>
+# IndexError: tuple index out of range
