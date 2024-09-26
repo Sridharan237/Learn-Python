@@ -177,3 +177,5 @@ print(T[1:2][1])
 # Traceback (most recent call last):
 #   File "<stdin>", line 1, in <module>
 # IndexError: tuple index out of range
+
+print(T[:][2])  # (40, 50)
