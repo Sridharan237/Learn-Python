@@ -52,6 +52,13 @@ print(S == A)
 print(S != A)
 #Output : True
 
+A = {1, 2, 3, 4, 5, 6}
+B = {1, 2, 3, 4, 5, 6}
+print(A < B)
+# Output : False
+print(A <= B)
+# Output : True
+
 print(10 in S)
 #Output : True
 
