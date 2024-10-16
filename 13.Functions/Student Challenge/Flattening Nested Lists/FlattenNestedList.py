@@ -3,7 +3,7 @@
 # function which returns a flattened list (single dimensional list) from a nested list (multidimensional list)
 def flattenNestedList(L):
     for e in L:
-        if hasattr(e, '__iter__'):
+        if hasattr(e, '__iter__'):      # Every sequence (or) collection contains '__iter__' as an attribute and if they do not contain then they are not sequence (or) collection
             yield from flattenNestedList(e)
         else:
             yield e
