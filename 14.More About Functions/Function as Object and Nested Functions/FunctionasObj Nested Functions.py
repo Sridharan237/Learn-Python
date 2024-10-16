@@ -16,6 +16,19 @@ print(type(d))                  # Output : <class 'function'>
 display('Ramesh')
 d('Arun')
 
+def display():
+     print('hello')
+
+d = display
+
+print(display)
+# Output : <function display at 0x0000029C8B308A40>
+
+print(d)
+# Output : <function display at 0x0000029C8B308A40>
+
+# Both display and d are referring 0x0000029C8B308A40 (for example)
+
 
 
 # 2. Nested Functions
