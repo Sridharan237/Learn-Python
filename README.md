@@ -16,3 +16,4 @@
 10. Tuple
 11. Set
 12. Dictionary
+13. Functions
