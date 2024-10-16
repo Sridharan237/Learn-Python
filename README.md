@@ -17,3 +17,4 @@
 11. Set
 12. Dictionary
 13. Functions
+14. More About Functions
