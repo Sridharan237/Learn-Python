@@ -23,7 +23,7 @@ try:
 
     print(L[index])
     
-    print('Program end successfully')
+    print('end of try block')
 
 except:
     print('Terminated Gracefully')
