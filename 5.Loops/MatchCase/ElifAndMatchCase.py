@@ -38,5 +38,5 @@ match day:
         print('Friday')
     case 7:
         print('Saturday')
-    case _:
+    case _:     # default case
         print('Invalid day number!')
