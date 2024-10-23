@@ -4,7 +4,7 @@
 # length, breadth - instance variables of class Rectangle
 # area, perimeter - instance methods of class Rectangle
 class Rectangle:
-    def __init__(self, length, breadth):
+    def __init__(self, length, breadth):    # Instance variables can be created inside constructor
         self.length = length
         self.breadth = breadth
     
@@ -27,12 +27,12 @@ class Test:
     def __init__(x):
         x.a = 10
     
-    def fun(y):
+    def fun(y):     # Instance variables can be created inside methods of a class
         y.b = 20
         
 t1 = Test()
 
-t1.c = 30
+t1.c = 30   # Instance variables can be created outside of a class
 
 print(dir(t1))
 
