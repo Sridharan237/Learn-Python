@@ -13,7 +13,8 @@ class Polygon:
 class Triangle(Polygon):
     
     def __init__(self, no_of_sides, sides):
-        super().__init__(no_of_sides, sides)
+        # super().__init__(no_of_sides, sides)
+        # Polygon.__init__(self, no_of_sides, sides) => this is also possible
     
     def area(self):
         # unpacking from list 'sides'
