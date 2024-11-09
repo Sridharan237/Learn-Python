@@ -71,3 +71,9 @@ print(time2 > time1)
 
 print(time2 < time1)
 # Output : False
+
+# combine - static method - datetime.datetime class
+dt3 = datetime.datetime.combine(date1, time1)
+
+print(dt3)
+# Output : 2010-01-01 10:10:10
