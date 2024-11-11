@@ -23,3 +23,4 @@
 17. Object Oriented Programming
 18. Multithreading
 19. Date & Time
+20. Database Connectivity

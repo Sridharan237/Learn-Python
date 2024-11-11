@@ -25,108 +25,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.APSeries.executor": "Run",
-    "Python.Add2Matrices.executor": "Run",
-    "Python.Add3Numbers.executor": "Run",
-    "Python.AdminAccess.executor": "Run",
-    "Python.Anagram.executor": "Run",
-    "Python.CircleArea.executor": "Run",
-    "Python.ConfirmPassword.executor": "Run",
-    "Python.CountryNames.executor": "Run",
-    "Python.CreditCardDetails.executor": "Run",
-    "Python.CuboidTotalSurfaceArea.executor": "Run",
-    "Python.DayMonthYear.executor": "Run",
-    "Python.DayName.executor": "Run",
-    "Python.DecimalToBinary.executor": "Run",
-    "Python.DefaultArguments.executor": "Run",
-    "Python.Difference.executor": "Run",
-    "Python.DigitName.executor": "Run",
-    "Python.DiscountedAmout.executor": "Run",
-    "Python.Displacement.executor": "Run",
-    "Python.DisplayData.executor": "Run",
-    "Python.ElifAndMatchCase.executor": "Run",
-    "Python.Factorial.executor": "Run",
-    "Python.Factors.executor": "Run",
-    "Python.FibonacciSeries.executor": "Run",
-    "Python.FindingMeanings.executor": "Run",
-    "Python.ForLoop.executor": "Run",
-    "Python.ForLoopDemo.executor": "Run",
-    "Python.ForLoopNegativeIndex.executor": "Run",
-    "Python.ForLoopUsingRange.executor": "Run",
-    "Python.InfiniteLoopBreakContinuePass.executor": "Run",
-    "Python.IteratorsGenerators.executor": "Run",
-    "Python.KmToMiles.executor": "Run",
-    "Python.LeapYearOrNot.executor": "Run",
-    "Python.ListIntoSingleNumber.executor": "Run",
-    "Python.LocalvsGlobal.executor": "Run",
-    "Python.MaleOrFemale.executor": "Run",
-    "Python.MarksWithinRange.executor": "Run",
-    "Python.MatrixAddition.executor": "Run",
-    "Python.MatrixTranspose.executor": "Run",
-    "Python.MaxNumber.executor": "Run",
-    "Python.MinimumIndexSumOf2Lists.executor": "Run",
-    "Python.MixedPositionalKeywordArguments.executor": "Run",
-    "Python.MonthName.executor": "Run",
-    "Python.MultiplicationTable.executor": "Run",
-    "Python.NestedIfElif.executor": "Run",
-    "Python.NestedListIndexAccess.executor": "Run",
-    "Python.NumberGuess.executor": "Run",
-    "Python.NumberOfDigits.executor": "Run",
-    "Python.OccurrencesofEachItem.executor": "Run",
-    "Python.OddEven.executor": "Run",
-    "Python.OverLappingElements2Lists.executor": "Run",
-    "Python.PalindromeNumber.executor": "Run",
-    "Python.PalindromeOrNot.executor": "Run",
-    "Python.PassFail3Subjects.executor": "Run",
-    "Python.Pattern1.executor": "Run",
-    "Python.Pattern2.executor": "Run",
-    "Python.Pattern3.executor": "Run",
-    "Python.PersonBirthday.executor": "Run",
-    "Python.PosNegativeZero.executor": "Run",
-    "Python.PositionalKeyword.executor": "Run",
-    "Python.PrimeNumberOrNot.executor": "Run",
-    "Python.PrimeNumbersFrom1to100.executor": "Run",
-    "Python.PrintDigits.executor": "Run",
-    "Python.PrintFunction.executor": "Run",
-    "Python.PrintHello10Times.executor": "Run",
-    "Python.PrintListInReverse.executor": "Run",
-    "Python.QuadraticEquationSolve.executor": "Run",
-    "Python.RearrangingCases.executor": "Run",
-    "Python.RectangleArea.executor": "Run",
-    "Python.RecursiveFactorial.executor": "Run",
-    "Python.RemovePunctuations.executor": "Run",
-    "Python.RemovingDuplicates.executor": "Debug",
-    "Python.ReversingNumber.executor": "Run",
-    "Python.RomantoInteger.executor": "Run",
-    "Python.SalaryCalculate.executor": "Run",
-    "Python.SortString.executor": "Run",
-    "Python.StringToPalindrome.executor": "Run",
-    "Python.StudentDetails.executor": "Run",
-    "Python.SumNumbers.executor": "Run",
-    "Python.SumOf+ve-veNumbers.executor": "Run",
-    "Python.SumOfDigits.executor": "Run",
-    "Python.TelegramMorseCode.executor": "Run",
-    "Python.TrapeziumArea.executor": "Run",
-    "Python.TriangleArea.executor": "Run",
-    "Python.UseridDomainName.executor": "Run",
-    "Python.VariableLenKeyword.executor": "Run",
-    "Python.VariableLenPositional.executor": "Run",
-    "Python.VoteEligibility.executor": "Run",
-    "Python.VowelConsonant.executor": "Run",
-    "Python.WhileElse.executor": "Run",
-    "Python.WhileLoop.executor": "Run",
-    "Python.WhileLoopNegativeIndex.executor": "Run",
-    "Python.WhileLoopPositiveIndex (1).executor": "Run",
-    "Python.WordsWithGivenLetter.executor": "Run",
-    "Python.WorkEligibility.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Learn-Github-Repositories/Learn Python Programming - Beginner to Master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.APSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add2Matrices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add3Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdminAccess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculate Age from DOB.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CircleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConfirmPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count Month starting with Monday.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountryNames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CreditCardDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CuboidTotalSurfaceArea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Currency Converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DayMonthYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DayName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DecimalToBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DefaultArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DigitName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiscountedAmout.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Displacement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DisplayData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ElifAndMatchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindingMeanings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoopNegativeIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoopUsingRange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InfiniteLoopBreakContinuePass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IteratorsGenerators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KmToMiles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Last Thursday's Date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LeapYearOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListIntoSingleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocalvsGlobal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaleOrFemale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MarksWithinRange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixTranspose.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaxNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MinimumIndexSumOf2Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MixedPositionalKeywordArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MonthName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NestedIfElif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NestedListIndexAccess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumberGuess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumberOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OccurrencesofEachItem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OverLappingElements2Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PalindromeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PassFail3Subjects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PersonBirthday.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PosNegativeZero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PositionalKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeNumberOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeNumbersFrom1to100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintHello10Times.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintListInReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuadraticEquationSolve.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RearrangingCases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RectangleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RecursiveFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemovePunctuations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemovingDuplicates.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ReversingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RomantoInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SalaryCalculate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String to Date Object.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringToPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StudentDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOf+ve-veNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TelegramMorseCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Time Taken.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TrapeziumArea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TriangleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UseridDomainName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VariableLenKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VariableLenPositional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VoteEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VowelConsonant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileElse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileLoopNegativeIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileLoopPositiveIndex (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.WordsWithGivenLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WorkEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Learn-Github-Repositories/Learn Python Programming - Beginner to Master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Learn-Github-Repositories\Learn Python Programming - Beginner to Master\12.Dictionary\Student Challenge\Create Dictionary for Country Names in Alphabetical Order" />
@@ -134,8 +140,8 @@
       <recent name="D:\Learn-Github-Repositories\Learn Python Beginner to Master\3.Operators and Expressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RecursiveFactorial">
-    <configuration name="IteratorsGenerators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Previous Day Date">
+    <configuration name="Calculate Age from DOB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.Functions/Iterators and Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Calculate Age from DOB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.Functions/Iterators and Generators/IteratorsGenerators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Calculate Age from DOB/Calculate Age from DOB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LocalvsGlobal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Count Month starting with Monday" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.Functions/Local vs Global Variable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Count Number of Months starting with Monday in a given Year" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.Functions/Local vs Global Variable/LocalvsGlobal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Count Number of Months starting with Monday in a given Year/Count Month starting with Monday.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RecursiveFactorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Previous Day Date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.Functions/Recursive Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Last Thursay's Date" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.Functions/Recursive Function/RecursiveFactorial.py" />
+      <option name="SCRIPT_NAME" value="D:\Learn-Github-Repositories\Learn Python Programming - Beginner to Master\19.Date &amp; Time\Student Challenge\Last Thursay's Date\Previous Day Date.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VariableLenKeyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String to Date Object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.Functions/Variable Length Keyword Arguments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/String Object to Date Object" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.Functions/Variable Length Keyword Arguments/VariableLenKeyword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/String Object to Date Object/String to Date Object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VariableLenPositional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Time Taken" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn Python Beginner to Master" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.Functions/Variable Length Positional Arguments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Time Taken For Exection of Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.Functions/Variable Length Positional Arguments/VariableLenPositional.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19.Date &amp; Time/Student Challenge/Time Taken For Exection of Code/Time Taken.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RecursiveFactorial" />
-        <item itemvalue="Python.LocalvsGlobal" />
-        <item itemvalue="Python.IteratorsGenerators" />
-        <item itemvalue="Python.VariableLenKeyword" />
-        <item itemvalue="Python.VariableLenPositional" />
+        <item itemvalue="Python.Previous Day Date" />
+        <item itemvalue="Python.Calculate Age from DOB" />
+        <item itemvalue="Python.String to Date Object" />
+        <item itemvalue="Python.Time Taken" />
+        <item itemvalue="Python.Count Month starting with Monday" />
       </list>
     </recent_temporary>
   </component>
