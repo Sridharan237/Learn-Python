@@ -3,7 +3,7 @@
 from collections import Counter
 import re
 
-f = open('D://Learn-Github-Repositories//Learn Python Programming - Beginner to Master//21.Datastructure Module//Student Challenge//text.txt', 'r')
+f = open('D:\\Learn-Github-Repositories\\Learn Python Programming - Beginner to Master\\21.Datastructure Module\\Student Challenge\\Top 3 Most Common Words\\text.txt', 'r')
 
 text = f.read()
 
@@ -14,3 +14,5 @@ c = Counter(words)
 
 print(c.most_common(3))
 # Output : [('Python', 4), ('easy', 4), ('language', 4)]
+
+f.close()
