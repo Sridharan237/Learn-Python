@@ -24,4 +24,5 @@
 18. Multithreading
 19. Date & Time
 20. Database Connectivity
-21. Datastructure Module
+21. Datastructure Modules
+22. Math Modules
