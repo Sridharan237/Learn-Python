@@ -23,9 +23,9 @@ print(heapq.heappop(h))
 print(h)
 # Output : [20, 40, 30, 70, 50, 60]
 heapq.heappop(h)
-20
+# Output : 20
 heapq.heappop(h)
-30
+# Output : 30
 print(h)
 # Output : [40, 50, 60, 70]
 
