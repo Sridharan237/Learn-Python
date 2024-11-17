@@ -41,3 +41,5 @@ for i in range(len(salaries)):
 print('Employees :', employees)
 print('Employee with Minimum Salary :', employees[min_salary_index])
 print('Employee with Maximum Salary :', employees[max_salary_index])
+
+f.close()   # closing the csv file
