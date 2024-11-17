@@ -4,6 +4,8 @@ import os
 
 print(os.name)
 # Output : 'nt'
+print(os.getlogin())
+# Output : 'Sridharan'
 
 
 
