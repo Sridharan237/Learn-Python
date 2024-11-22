@@ -11,7 +11,7 @@ covid_data = [('Country', 'Doses', 'People', 'Percentage'),
 ('Indonesia', '39Cr', '16.2Cr', 59.3)]
 
 # opening a csv file
-f = open('D:\\Learn-Github-Repositories\\Learn Python Programming - Beginner to Master\\23.OS Module\\Writing CSV File using csv.writer', 'w', newline='')
+f = open('D:\\Learn-Github-Repositories\\Learn Python Programming - Beginner to Master\\23.OS Module\\Writing CSV File using csv.writer\\Covid_data.csv', 'w', newline='')
 
 # creating an object for writer class
 wr = csv.writer(f)
